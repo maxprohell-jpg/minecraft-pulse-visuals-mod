@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+build-*/*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.settings/
+.classpath
+.classpath.user
+.project
+bin/
+
+# Forge
+*.srg
+*.tiny
+*.json
+*.kapt*
+
+# Other
+*.log
+*.tmp
+*.bak
